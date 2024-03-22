@@ -1,1 +1,15 @@
-# merry-html
+
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Login page</title>
+</head>
+<body>
+    <h1>Login page</h1>
+    <p>Username: </p>
+    <input>
+    <p>Password: </p>
+    <input type="Password" >
+    <button type="submit">Login</button>
+</body>
+</html>
